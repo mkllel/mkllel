@@ -1,6 +1,6 @@
-### Hi there 👋
+<!--### Hi there 👋
 
-<!--
+
 **mkllel/mkllel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<h1>안녕하세요👋 웹개발자가 되고싶은 이민규의 페이지 입니다.</h1>
+
+```js
+console.log('항상 열심히 하는 개발자가 되자!')
+```
