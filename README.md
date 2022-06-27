@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h1>안녕하세요👋 웹개발자가 되고싶은 이민규의 페이지 입니다.</h1>
+<p>About Me</p>
 
 ```js
 console.log('항상 열심히 하는 개발자가 되자!')
