@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 ```js
 console.log('항상 열심히 하는 개발자가 되자!')
 ```
-Skill
-<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
+Skill <br>
+<img alt="HTML5" src ="https://img.shields.io/badge/HTML5-#E34F26.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
 
