@@ -27,6 +27,5 @@ ___
 
 ### Me
 ___
-<a href = "http://mkllel.dothome.co.kr/"><img alt="Portfolio" src ="https://img.shields.io/badge/Portfolio-34A7C1.svg?&style=for-the-badge&logo=Proto.io&logoColor=white"/><a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=vavfapi032@gmail.com" target="_blank">
-</a><img alt="Gmail" src ="https://img.shields.io/badge/Gmail-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
+<a href = "http://mkllel.dothome.co.kr/"><img alt="Portfolio" src ="https://img.shields.io/badge/Portfolio-34A7C1.svg?&style=for-the-badge&logo=Proto.io&logoColor=white"/> <a href = "mailto:vavfapi032@naver.com"><img alt="Gmail" src ="https://img.shields.io/badge/Gmail-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
 
